@@ -34,7 +34,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     mySprite.vy = -100
 })
 function splash () {
-    game.splash("Level 1:", "")
+    game.splash("Level 1:", "Future")
 }
 function backgroudn () {
     scene.setBackgroundImage(img`
