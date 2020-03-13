@@ -1618,6 +1618,7 @@ function birdie () {
 . . . . . . . . . . . . . . . . . . . . 
 `, SpriteKind.Player)
     mySprite.ay = 300
+    mySprite.say("Experience FBLA", 2000)
 }
 function level_1 () {
     level = 1
